@@ -359,7 +359,7 @@ Campaign Table
 #### Usage
 1. Set up all software requirements 
 2. Ensure that you have the appropriate CSV and XLSX files.
-3. Run the all scripts as delineated the appropriate code editors: Jupyter Notebook and pgAdmin 4. 
+3. Run all the scripts as delineated the appropriate code editors: Jupyter Notebook and pgAdmin 4. 
 
 #### Contributions
 Contributions to this project are highly encouraged! If you wish to contribute, please follow these guidelines:
